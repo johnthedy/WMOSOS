@@ -1,7 +1,8 @@
 # WMOSOS
 Weighted Multi Objective Symbiotic Organism Search
 
-This is multiobjective optimization algorithm modified from SOS
+This is multiobjective optimization algorithm modified from SOS created using MATLAB.
+WMOSOS.m is the main file
 Current algorithm can only be applied into two objectives problem
 Modify the fobj.m file to suit your own problem.
 
